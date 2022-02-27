@@ -3,7 +3,6 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="" content="">
-    <title></title>
   </head>
   <body>
     <h1> Pengertian Software : Fungsi, Jenis, Spesifikasi dan Contoh Software </h1>
